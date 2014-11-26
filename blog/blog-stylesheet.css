@@ -23,14 +23,16 @@ p{
 h4 {
   font-family: sans-serif;
   position: relative;
-  top: 5px;
+  top: -100px;
+  left: 18px;
   text-decoration: underline;
 }
 
 ul li {
   font-family: sans-serif;
   position: relative;
-  top: 5px;
+  top: -100px;
+  left: 20px;
 
 }
 /*Blog Post Title: center and formatted*/
