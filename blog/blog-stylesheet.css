@@ -15,7 +15,7 @@ p{
   font-family: sans-serif;
   position: relative;
   left: 30%;
-  margin-right: 25%;
+  margin-right: 100px;
 }
 
 /*List of former posts*/
@@ -24,6 +24,7 @@ h4 {
   font-family: sans-serif;
   left: -2px;
   position: relative;
+  top: 20%;
   text-decoration: underline;
 }
 
@@ -39,7 +40,7 @@ ul li {
 h3{
   font-family: sans-serif;
   position: relative;
-  left: 38%;
+  left: 42%;
   margin-top: 200px;
   font-weight: bold;
 }
