@@ -22,7 +22,7 @@ h4 {
 ul li {
   font-family: sans-serif;
   position: relative;
-  margin-left: 5px;
+  margin-left: -5px;
 
 }
 
@@ -30,7 +30,7 @@ ul li {
 
 #link{
   color: blue;
-  left: 55%;
+  left: 50%;
   top: 300px;
   position: relative;
   font-family: sans-serif;
