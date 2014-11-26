@@ -5,8 +5,7 @@
 h1 {
   font-family: sans-serif;
   position: fixed;
-  margin-right: auto;
-  margin-left: auto;
+  left: 40%;
   top: 10px;
   font-weight: bolder;
 }
