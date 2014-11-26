@@ -1,0 +1,49 @@
+/*Stylesheet for my blog*/
+
+/*Title is centered, in a good font and fixed in its position*/
+
+h1 {
+  font-family: sans-serif;
+  position: fixed;
+  left: auto;
+  top: 20px;
+  font-weight: bolder
+}
+
+/*Blog post title is in good font, */
+h3{
+  font-family: sans-serif;
+  left: auto;
+  position: relative;
+  font-weight: bold;
+  top: 150px;
+}
+
+/*Blog text is fine */
+
+ p {
+
+  position: relative;
+  left: 150px;
+  font-family: sans-serif;
+}
+
+h4 {
+  font-family: sans-serif;
+  left: 15px;
+  position: relative;
+}
+
+ul li {
+  font-family: sans-serif;
+  left: 10px;
+  position: relative;
+}
+
+#link{
+  color: blue;
+  bottom: 20px;
+  position: fixed;
+  font-family: sans-serif;
+}
+
