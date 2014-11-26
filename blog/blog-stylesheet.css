@@ -13,9 +13,10 @@ h1 {
 /*Blog post title is in good font, */
 h3{
   font-family: sans-serif;
-  margin-left: 50%;
+  margin-left: auto;
   margin-right: auto;
   font-weight: bold;
+  position: relative;
   top: 150px;
 }
 
@@ -24,8 +25,7 @@ h3{
  p {
 
   width: 50%;
-  margin-left: 50%;
-  margin-right: auto;
+  margin-left: auto;
   top: 180px;
   position: relative;
   font-family: sans-serif;
