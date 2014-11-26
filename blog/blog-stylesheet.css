@@ -5,8 +5,8 @@
 h1 {
   font-family: sans-serif;
   position: fixed;
-  left: 300px;
-  top: 20px;
+  left: 40%
+  top: 10px;
   font-weight: bolder
 }
 
@@ -15,10 +15,9 @@ h3{
   font-family: sans-serif;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 18%;
+  margin-top: 15%;
   font-weight: bold;
   position: relative;
-  top: 150px;
 }
 
 /*Blog text is fine */
