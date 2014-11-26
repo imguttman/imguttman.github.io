@@ -21,9 +21,8 @@ h4 {
 
 ul li {
   font-family: sans-serif;
-  left: -12 px;
-  top: -5px;
   position: relative;
+  right: 10px;
 
 }
 
@@ -31,7 +30,7 @@ ul li {
 
 #link{
   color: blue;
-  left: 500 px;
+  left: 500px;
   top: 300px;
   position: relative;
   font-family: sans-serif;
