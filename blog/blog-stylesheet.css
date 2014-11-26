@@ -10,3 +10,17 @@ h1 {
   font-weight: bolder
 }
 
+/*List of former posts*/
+
+h4 {
+  font-family: sans-serif;
+  left: -15px;
+  position: relative;
+}
+
+ul li {
+  font-family: sans-serif;
+  left: -10px;
+  position: relative;
+
+}
