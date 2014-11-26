@@ -25,12 +25,23 @@ ul li {
   margin-left: -5px;
 
 }
+/*Blog Post Title: center and formatted*/
+
+h3{
+  font-family: sans-serif;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30%;
+  font-weight: bold;
+}
+
 
 /*Link to Home*/
 
 #link{
   color: blue;
-  left: 50%;
+  left: 45%;
   top: 300px;
   position: relative;
   font-family: sans-serif;
