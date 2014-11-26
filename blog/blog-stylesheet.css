@@ -14,13 +14,14 @@ h1 {
 
 h4 {
   font-family: sans-serif;
-  left: -5px;
+  left: -2px;
   position: relative;
+  text-decoration: underline;
 }
 
 ul li {
   font-family: sans-serif;
-  left: -12px;
+  left: -12 px;
   position: relative;
 
 }
