@@ -5,9 +5,10 @@
 h1 {
   font-family: sans-serif;
   position: fixed;
-  left: 45%;
+  margin-right: auto;
+  margin-left: auto;
   top: 10px;
-  font-weight: bolder
+  font-weight: bolder;
 }
 
 /*List of former posts*/
