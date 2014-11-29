@@ -1,0 +1,71 @@
+/*Stylesheet for my website*/
+
+h1{
+  position: relative;
+  text-align: center;
+
+}
+
+h3{
+    position: relative;
+    text-align: center;
+
+}
+
+p{
+    position: relative;
+    width: 200px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+
+ .line_maker{
+   height: .5px;
+   background-color: black;
+   border-bottom: 1px solid black;
+
+
+ }
+
+.bold_line{
+   height: .5px;
+   background-color: white;
+   border-bottom: 3px dashed black;
+
+ }
+
+ .about{
+     position: relative;
+     display: inline-block;
+     height: 10px;
+     width: 100px;
+
+ }
+
+ .projects{
+     position: relative;
+     display: inline-block;
+     height: 10px;
+     width: 100px;
+     left: 175px;
+     top: -19px;
+ }
+
+ .blog{
+     display: inline-block;
+     position: relative;
+     left: 350px;
+     top: -35px;
+
+ }
+
+ .contact{
+     display: inline-block;
+     position: relative;
+     left: 525px;
+     top: -55px;
+
+ }
+
+
