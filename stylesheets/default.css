@@ -18,10 +18,11 @@ h3{
 
 }
 
-p{
+.welcome_message{
     position: relative;
     width: 200px;
     padding: 20px;
+    margin-bottom: 25px;
     border: 1px solid black;
 }
 
@@ -30,15 +31,12 @@ p{
    height: .5px;
    background-color: black;
    border-bottom: 1px solid black;
-
-
  }
 
 .bold_line{
    height: .5px;
    background-color: white;
    border-bottom: 3px dashed black;
-   padding-top: 60px;
 
  }
 
