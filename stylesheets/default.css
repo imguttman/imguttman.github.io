@@ -1,7 +1,7 @@
 /*Stylesheet for my website*/
 
 body{
-  background-color: #6FB0BF;
+  background-color: #9DC5CC;
   color: #253B40;
 
 }
@@ -86,7 +86,8 @@ h3{
 .contact_links{
   position:relative;
   display:inline-block;
-  left: 70%;
+  left: 96%;
+  bottom: 125px;
   height:20px;
   width:20px;
 
