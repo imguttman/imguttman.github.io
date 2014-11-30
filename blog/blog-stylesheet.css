@@ -4,8 +4,6 @@
 
 h1 {
   font-family: sans-serif;
-  position: fixed;
-  left: 40%;
   top: 10px;
   font-weight: bolder;
 }
@@ -42,8 +40,7 @@ ul li {
 h3{
   font-family: sans-serif;
   position: relative;
-  left: 44%;
-  margin-top: 200px;
+  margin-top: 10px;
   font-weight: bold;
 }
 
