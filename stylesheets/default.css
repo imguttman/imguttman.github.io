@@ -79,6 +79,16 @@ h3{
 
 .home_pic{
   position:relative;
+  height: 150px;
+  left:85%;
+}
+
+.contact_links{
+  position:relative;
+  display:inline-block;
+  left: 70%;
+  height:20px;
+  width:20px;
 
 
 }
