@@ -6,42 +6,61 @@ h1 {
   font-family: sans-serif;
   top: 10px;
   font-weight: bolder;
+  text-align: center
+}
+h6 {
+  font-family: sans-serif;
+  position: relative;
+  text-align: center;
+}
+
+/*Blog Post Title: center and formatted*/
+
+div h3{
+  font-family: sans-serif;
+  position: relative;
+  top: 50px;
+  margin-top: 10px;
+  font-weight: bold;
+  left: 25%;
+}
+
+div h5{
+  margin-top: 60px;
+  font-family: sans-serif;
+  position:relative;
+  left: 25%;
+
+
 }
 
 /*Blog post text*/
-p {
-  width: 650px;
+div p {
+  margin-top: 20px;
+  width: 750px;
   font-family: sans-serif;
   position: relative;
-  left: 350px;
-
-
+  left: 25%;
 }
 
 /*List of former posts*/
 
-h4 {
+div h4 {
   font-family: sans-serif;
   position: relative;
-  top: -100px;
-  left: 18px;
   text-decoration: underline;
-}
-
-ul li {
-  font-family: sans-serif;
-  position: relative;
-  top: -100px;
+  bottom: 425px;
   left: 20px;
-
 }
-/*Blog Post Title: center and formatted*/
 
-h3{
+li {
   font-family: sans-serif;
   position: relative;
-  margin-top: 10px;
-  font-weight: bold;
+  bottom: 445px;
+  left: -5px;
+  margin: 0;
+  padding: 5px;
+  font-size: 80%;
 }
 
 
@@ -49,8 +68,9 @@ h3{
 
 #link{
   color: blue;
-  left: 45%;
-  top: 200px;
+  left: 48%;
+  bottom: 100px;
+  margin-top: 20px;
   position: relative;
   font-family: sans-serif;
 }
