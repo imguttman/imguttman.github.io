@@ -2,6 +2,11 @@
 
 /*Title is centered, in a good font and fixed in its position*/
 
+body{
+  background-color: #9DC5CC;
+  color: #253B40;
+
+}
 h1 {
   font-family: sans-serif;
   top: 10px;
