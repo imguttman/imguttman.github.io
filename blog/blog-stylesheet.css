@@ -79,3 +79,13 @@ ul {
   font-family: sans-serif;
 }
 
+/*Images!*/
+
+.image_blog {
+  margin-top: 20px;
+  padding: 20px;
+  width: 700px;
+  height: 300px;
+  position: relative;
+}
+
