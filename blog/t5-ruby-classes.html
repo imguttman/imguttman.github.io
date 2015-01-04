@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title> Phase 0 Blog</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="blog-stylesheet.css">
+</head>
+
+<body>
+  <!--Top of page: Title, date-->
+
+  <h1>Life on Phase 0</h1>
+  <h6>technical and cultural things as they're understood by me</h3>
+
+<!-- Center-Middle: Blog post title, and the post itself-->
+<div>
+    <h3>Ruby Classes: What, Why, When, and How</h3>
+    <h5>Jan. 4, 2015</h5>
+
+    <p>
+      Classes “group behaviors (methods) into convenient bundles, so that you can quickly create many objects that behave essentially the same way” (WGB, pg. 61). The objects created from the Class are called instances of that Class. Ruby has its own built-in classes (String, Object, Class, etc.) but also allows you to create your own custom classes.
+      <br></br>
+      HOW: Use a constant - a special type of identifier in Ruby whose value doesn’t change over time - to name and define a class. To manufacture an instance of that class, call the new method (this type of method is called a constructor).
+      <br></br>
+
+      The data associated with an instance is known as the instance’s state. This data is held in instance variables - a type of variable that begins with an ‘@‘ sign and is only visible to the object to which it belongs. Instance variables come into existence through methods. Classes have access to a special method - #initialize - that gets executed each time an instance of the class is created. The initialize function sets a baseline state for your class instances.
+      <br></br>
+
+      To clean up a class/make it more readable, consider using attr_* method family. An attribute is a high level term to describe a property of an object. The attr_* method family functions as a shortcut that creates an instance variable and automatically wraps that instance variable into a method.
+      <br></br>
+
+ WHEN/WHY: Writing or reusing custom classes in ruby allows a programmer to specify and share characteristics across numerous objects. As a primary source of the objects that will inhabit your program, classes play a large role in determining the make-up of your program’s virtual world. As Sandi Metz explains, the number and cohesion of an application’s classes will “constrain the imagination of everyone downstream.” Ultimately, Metz says, classes in an applications serve to “[construct] a box that may be difficult to think outside of.” Knowing the impact that classes will have on a program helps to explain why it’s important to have classes with a single responsibility.  A class with more than one responsibility is difficult to reuse, making it difficult for our code to remain changeable and maintainable.
+
+  </p>
+
+  </div>
+
+  <!--Left-Middle: List of links-->
+  <div>
+  <h4>Recent Posts</h4>
+  <ul>
+
+        <li>
+          <a href="http://imguttman.github.io/blog/c5-feedback.html">CB: How Feedback Feels</a>
+        </li>
+
+         <li>
+           <a href="http://imguttman.github.io/blog/c4-tech-issues.html">CB: Tech and Privacy</a>
+         </li>
+
+            <li>
+              <a href="http://imguttman.github.io/blog/c3_thinking-style.html">CB: Thinking Styles</a>
+            </li>
+
+            <li>
+              <a href= "http://imguttman.github.io/blog/t2-display-type.html">TB: Display Types</a>
+            </li>
+
+            <li>
+              <a href= "http://imguttman.github.io/blog/c1-chefs-kitchen.html">CB: How to be at DBC</a>
+            </li>
+
+            <li>
+              <a href= "http://imguttman.github.io/blog/t1-git-blog.html">TB: About Git</a>
+            </li>
+
+    </ul>
+
+</div>
+
+<!-- Middle-Bottom: back to the homepage -->
+  <a href="https://imguttman.github.io/" id="link">Home</a>
+
+</body>
+</html>
