@@ -16,5 +16,4 @@ Check out the below screenshots. The first demonstrates how inline-block display
 
 
 
-
 To be fair, I’m just at the start of my programming life. Hat tip to these articles http://stackoverflow.com/questions/9189810/css-display-inline-vs-inline-block, http://css-tricks.com/almanac/properties/d/display/, for valuable information.

@@ -3,8 +3,10 @@
 /*Title is centered, in a good font and fixed in its position*/
 
 body{
-  background-color: #9DC5CC;
+  background-color: #FFFFFB;
   color: #253B40;
+  font-family: 'Muli', sans-serif;
+
 
 }
 h1 {
@@ -21,32 +23,33 @@ h6 {
 
 /*Blog Post Title: center and formatted*/
 
-div h3{
-  font-family: sans-serif;
-  position: relative;
-  top: 50px;
-  margin-top: 10px;
+.blog_post {
+    position: relative;
+    left: 30%;
+    margin-top: 20px;
+}
+
+.blogpost, p {
+  width: 600px;
+  margin-top: -15px;
+}
+
+
+.blogpost, h3{
+  margin-top: 40px;
   font-weight: bold;
-  left: 25%;
+  font-size: 1.5em;
 }
 
-div h5{
-  margin-top: 60px;
-  font-family: sans-serif;
+
+.blogpost, h5{
   position:relative;
-  left: 25%;
-
-
+  top: -10px;
 }
+
+.
 
 /*Blog post text*/
-div p {
-  margin-top: 20px;
-  width: 750px;
-  font-family: sans-serif;
-  position: relative;
-  left: 25%;
-}
 
 /*List of former posts*/
 
@@ -79,12 +82,29 @@ ul {
   font-family: sans-serif;
 }
 
+.block{
+  height:100%;
+  width: 22.5% ;
+  background: linear-gradient(white, #E0E5E4);
+  top: 0;
+}
+
+#left_block{
+  position:absolute;
+  left: 0;
+}
+
+#right_block{
+  position:absolute;
+  left: 77.5%;
+}
+
 /*Images!*/
 
 .image_blog {
   margin-top: 20px;
   padding: 20px;
-  width: 700px;
+  width: 600px;
   height: 300px;
   position: relative;
 }
