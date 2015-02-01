@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Phase 0: The Blog</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/blog//</link>
+    <atom:link href="http://yourdomain.com/blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 01 Feb 2015 14:38:00 -0800</pubDate>
+    <lastBuildDate>Sun, 01 Feb 2015 14:38:00 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 29 Jan 2015 01:55:28 -0800</pubDate>
+        <link>http://yourdomain.com/blog//jekyll/update/2015/01/29/welcome-to-jekyll%20copy.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//jekyll/update/2015/01/29/welcome-to-jekyll%20copy.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Learning from Conflict</title>
+        <description>&lt;p&gt;I’m sure there’s a body of psychological/sociological research explaining why people make missteps when they’re in the midst of a conflict. When emotions are running high, there’s a fat chance you won’t act the way your sober, calm, rational self would act. Hindsight being 20/20, analyzing a previous conflict illuminates the courses of action we didn’t take or didn’t see or didn’t want to see. In reflecting on a specific instance of conflict, you’re hoping not only to understand the entirety of the negative interaction (the causes, the build up, the reaction, the fallout, etc), but also to fortify yourself for the next round, however different the circumstances might be.&lt;/p&gt;
+
+&lt;p&gt;^^ All valid, right? Sure. In theory it’s great, in practice it’s much harder.&lt;/p&gt;
+
+&lt;p&gt;I’ll give it a shot though. I felt unacknowledged and disrespected as a result of the incident/conflict. I felt hugely disappointed in my friends (and myself). Beyond that, the conflict made me experience a deep pessimism for the place I’m from. The source was actually a run-in-the-mill comment (or series of comments) that wasn’t even directed at me. I was watching a sports game on TV with a group of friends (and my friend’s friends) and one of the guys (just for context: he’s white/straight/extremely privileged - traits that obviously aren’t negative on their own but relevant for the conflict) kept shouting slurs whenever a player screwed up. I can’t believe I’m about qualify the use slurs but I feel like I should say there was no detection of sarcasm or self-awareness in these slurs. This was just a person using racist/homophobic/misogynist slurs to express his disgust. In that moment, I shut down. I felt extremely self-conscious and felt my heart rate speed up. Time passed.  I collected myself in the bathroom. I mustered up the courage to say something, but nothing profound or articulate: just barely enough to lodge a complaint, to demonstrate that I had taken offense. Then came the awkwardness, the silence, and half-assed apologies. I wanted for it be resolved so I said all I wanted to do was talk it through and we did and then I shook hands with the person. Wholly unsatisfying resolution, in retrospect. I don’t regret having the conversation but I wish I had done it differently. I wish I would’ve recognized that I didn’t need to be there in the first place; that as soon as I heard the first slur I would’ve said my goodbyes and just left. I didn’t stay because I was brave and wanted to stand up to the guy and moralize. I stayed because I was paralyzed and didn’t know what else to do. I wanted to be able to be there and be just like the 5 or so other guys I was watching with who didn’t seem fazed at all by the slurs. Now I don’t. My takeaway from that conflict was that sometimes the desire to normalize, to moralize, to be accepted is an impulse that should be resisted or at least scrutinized.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jan 2015 04:30:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/23/c8-conflict.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/23/c8-conflict.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Explainer: Ruby on Rails</title>
+        <description>&lt;p&gt;Ruby on Rails is a “web application development framework written in the Ruby language.” It is a “software library that extends the Ruby programming language.” Technically, rails is a “package library” in the form of a RubyGem.&lt;/p&gt;
+
+&lt;p&gt;Those are the broad definitions I found when I tried to learn more about Ruby on Rails. Here’s a more basic, novice-friendly version: Ruby on Rails (abbreviated as RoR or just called Rails) is a framework written in Ruby that combines Ruby, JavaScript, HTML, and CSS that enables programmers to build interactive websites.&lt;/p&gt;
+
+&lt;p&gt;Rails was released by creator David Heinemeier Hansson 2004 as an open-source project. Its status as open source is one reason Rails is so popular and has been so widely adopted. Today massive websites like Hulu, Github, and Shopify run on Rails.&lt;/p&gt;
+
+&lt;p&gt;Rails has gained popularity over the years because developers find it easier to collaborate and quickly build websites. The reason Rails development is so smooth compared to PHP and Java is that Rails is an “opinionated software,” meaning it adheres certain conventions that its creators believe are fundamental (and generally non-negotiable) parts of the development process. To be clear, these are decisions made by Hansson and the core team of RoR. The decisions generally reflect and bolster Rail’s commitment to a couple core philosophies: Don’t Repeat Yourself and Convention Over Configuration.&lt;/p&gt;
+
+&lt;p&gt;Don’t Repeat Yourself is a tenet that advises against duplicate/repetitive code. Convention Over Configuration refers to the (opinionated) automation that’s part of Rails. Rails makes assumptions, so, for example, when you create a model object in Rails, that data will be saved in a table with the same name as the object without any configuration required.&lt;/p&gt;
+
+&lt;p&gt;A good primer is incomplete without mentioning a few flaw/criticisms: First off, the “opinionated software” aspect of RoR cuts both ways: some see this as hugely helpful/benevolent whereas others see it as autocratic of Hansson to enshrine his preferences into the framework. Other complaints are more technical in nature. Rails has been criticized for its slow processing performance relative to Java or C++. It’s also more difficult to execute two tasks simultaneously using Rails, for reasons far beyond my current understanding.&lt;/p&gt;
+
+&lt;p&gt;For a great article with much (much, much..) more details about Ruby on Rails, check out this &lt;a href=&quot;http://railsapps.github.io/what-is-ruby-rails.html&quot;&gt;railsapp guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jan 2015 04:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/23/t8-tech.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/23/t8-tech.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>A Post on Values</title>
+        <description>&lt;p&gt;And now an all-over-the-place discussion of values. Scanning over a big list of values, these six stuck out: honesty, integrity, enthusiasm, self-respect, passion, and empathy. These are probably a lot of people’s go to values (which is a good thing). On a scale from 1-5, (1 being the bad side of the spectrum and 5 being the living-up-to-my values side), I’d say that I’d (generously) score myself between a 4 and 5 for each of the values above. Maybe I’m biased though.&lt;/p&gt;
+
+&lt;p&gt;On its surface, self-respect might seem like an selfish value, especially in comparison to the other options that I could’ve chosen from (examples: Public Service, Helping Others). But I think that so much good emanates from respecting yourself. My conception of self-respect involves setting high expectations and living up to them. In this way, self-respect enables me. It recognizes and respects my other values and goals, and charts a path to achieving or embodying them.&lt;/p&gt;
+
+&lt;p&gt;It’s great to feel connected to certain values, but I think that we develop and make manifest our values when we’re faced with adversity or something disruptive. Just by knowing my values and seeking to live up to them on a day-to-day basis isn’t really enough; sometimes I think I might do better by challenging myself more often or putting myself in positions to demonstrate or flex my values. Maybe that’s a value in and of itself. But what I’m saying is that values are ideals; they’re aspirational/ they will never been something I “have.” Which means the more one is in situations that test one’s values, the more one would be able to appreciate the distance between oneself and your ideal. I think DBC will test a lot of the aforementioned values, and if I do well to constantly remind myself of the values and their importance, then I think I can mitigate the negative effects of stereotype threat.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 04:30:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/18/c7-values.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/18/c7-values.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Ruby Hashes v. JavaScript Objects</title>
+        <description>&lt;p&gt;This week I met JavaScript for the first time. And to keep this metaphor going, I’d say that I was introduced to JS by Ruby. The challenges for the week were designed so that we could “explore the features of JavaScript from the perspective of Ruby.”&lt;/p&gt;
+
+&lt;p&gt;When JavaScript through this Ruby lens, I was tempted to project ruby concepts onto my understanding of JS. When I encountered objects in Eloquent JavaScript as “arbitrary collections of properties”, I immediately conflated objects with Ruby hashes.&lt;/p&gt;
+
+&lt;p&gt;Hashes are a kind of dictionary of values, where each value is associated with a single key. The key allows you to access its corresponding value in the hash. Objects seem to do the same: an object in comprised of properties. A property is an expression that provides access to a value; properties in objects are written as name:value pairs. A property’s name is just like a variable in that it stores a certain value. Just like hash keys, an object’s property names can “grasp” different types of values (strings, numbers, arrays, booleans, etc).&lt;/p&gt;
+
+&lt;p&gt;Despite these similarities on the surface, it’s important to understand that JS objects are not the same as Ruby hashes, and how they’re different. As best I can understand, objects are more accessible (and by extension changeable) than hashes. Objects in JS are comprised of a collection of properties, whereas a Ruby hash is itself a set of variables that reference other objects. In other words, key-value pairs in hashes are more encapsulated than object properties in JS. This is why hashes can be altered only through method calls whereas JS objects can be modified much more easily.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 04:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/18/t7-objects-hashes.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/18/t7-objects-hashes.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Class Variables Explained</title>
+        <description>&lt;p&gt;Class variables defy typical scoping rules in a very useful way.&lt;/p&gt;
+
+&lt;p&gt;By appending two @ signs before to a variable name, you can create a class variable that stores information which can be accessed and added to only by class objects and instances of that class. Class variables, usually found in class or instance methods, allow for instances of a class to share information with each other and the class object itself. This expands the potential for classes to more accurately and easily model real-world objects. This visibility for class variables makes them less risky and leaky than global variables and thereby result in cleaner (read: less leaky) code.&lt;/p&gt;
+
+&lt;p&gt;Imagine you’re running a dog-sitting service and want an easy way to keep track of the number of dogs that you’re responsible for. You could use a global variable ($dog_count) to solve this problem, making the count accessible and changeable from everywhere in the program. The class variable @@dog_count offers a more sensible alternative. The initialize method might add to this variable each time an instance of the class is created, and then it could be viewed via a class method.&lt;/p&gt;
+
+&lt;p&gt;Something to be wary of when working with class variables is the class’s inheritance. “Class variable”, in fact, is sort of a misnomer - it’s more accurate to think of class variables as class-hierarchy variables, because class variables are shared by any subclasses the class might have and instances of those subclasses. This means that class variables found in a class that has many ‘related’ subclasses or parent-classes are more vulnerable to the sort leakiness that deterred us from using global variables in the first place. So, as useful class variables are, they should be used cautiously.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 04:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/11/t6-class-variables.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/11/t6-class-variables.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Stereotype Threat</title>
+        <description>&lt;p&gt;This week’s blog is about a well-documented (and little-known and scary) sociological phenomenon known as stereotype threat. Social scientists have found that someone’s behavior and performance can be seriously affected by that person’s awareness of how her actions might confirm (or defy) well-known stereotypes regarding her identity. Stereotype threat interferes with performance for a number of reasons. Think about it: if you were completing a task and at a certain point realized that your actions/performance/behavior could be reduced societal stereotype about a group with which you identify. Think about how that might distract or disempower or disturb or upset you. Researchers have demonstrated in hundreds of experiments the ways stereotype threat drives certain groups to perform worse in a range of different settings and how this underperformance has major ramifications.&lt;/p&gt;
+
+&lt;p&gt;Stereotype threat makes sense in a very sad way. It’s something I knew existed before I ever researched it for this blog post. But before it was just an uncomfortable feeling. Now I see that it’s a sociological mechanism backed by peer-reviewed articles. The data that back up claims about stereotype threat and academic jargon used to explain it certainly don’t capture the uneasy feeling of being the gay guy on the soccer field. Obviously not as consequential as experiencing that feeling in the classroom or in the workplace. To be honest, since sexual orientation is in a lot of ways less visible than gender or race, I’m reticent to give more examples because it’s difficult for me to explain away certain actions/behaviors by invoking the stereotype threat. It’s hard for me to parse it all out.&lt;/p&gt;
+
+&lt;p&gt;An awareness of stereotype threat is not a cure-all. It’s a starting point. At DBC and beyond, I think/hope that one way to sidestep the stereotype threat is discussion with your peers and coworkers. Sure, these discussions can be (and probably should be at some point) about stereotype threat. But I also think it’s important to talk about other things so that group members know each other as individuals. There’s something very cliche in that ‘solution’ - apologies - but at least in my experience, this approach is key to overcoming the prejudices and stereotypes that betray our values but nonetheless remain deeply entrenched in our society.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2015 04:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/11/c6-stereotype-threat.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/11/c6-stereotype-threat.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Ruby Classes: Why, When, and How</title>
+        <description>&lt;p&gt;Classes “group behaviors (methods) into convenient bundles, so that you can quickly create many objects that behave essentially the same way” (WGB, pg. 61). The objects created from the Class are called instances of that Class. Ruby has its own built-in classes (String, Object, Class, etc.) but also allows you to create your own custom classes.
+HOW: Use a constant - a special type of identifier in Ruby whose value doesn’t change over time - to name and define a class. To manufacture an instance of that class, call the new method (this type of method is called a constructor).&lt;/p&gt;
+
+&lt;p&gt;The data associated with an instance is known as the instance’s state. This data is held in instance variables - a type of variable that begins with an ‘@‘ sign and is only visible to the object to which it belongs. Instance variables come into existence through methods. Classes have access to a special method - #initialize - that gets executed each time an instance of the class is created. The initialize function sets a baseline state for your class instances.&lt;/p&gt;
+
+&lt;p&gt;To clean up a class/make it more readable, consider using attr&lt;em&gt;* method family. An attribute is a high level term to describe a property of an object. The attr&lt;/em&gt;* method family functions as a shortcut that creates an instance variable and automatically wraps that instance variable into a method.&lt;/p&gt;
+
+&lt;p&gt; WHEN/WHY: Writing or reusing custom classes in ruby allows a programmer to specify and share characteristics across numerous objects. As a primary source of the objects that will inhabit your program, classes play a large role in determining the make-up of your program’s virtual world. As Sandi Metz explains, the number and cohesion of an application’s classes will “constrain the imagination of everyone downstream.” Ultimately, Metz says, classes in an applications serve to “[construct] a box that may be difficult to think outside of.” Knowing the impact that classes will have on a program helps to explain why it’s important to have classes with a single responsibility.  A class with more than one responsibility is difficult to reuse, making it difficult for our code to remain changeable and maintainable.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Jan 2015 04:30:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/04/t5-ruby-classes.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/04/t5-ruby-classes.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Together: Pairing and Phase 0</title>
+        <description>&lt;p&gt;So far in Phase 0, I’ve paired with other FDs several times to work through challenges. These sessions have all been different. Of course the content of each session has varied, but so has the dynamic between me and the other person. Each time I pair with someone new I’m required not only to meet them but to understand where they’re at with the material, their learning style, and how they like to work with others. At times I’ve given short shrift to these questions and later regretted it. Investing the time to get to know the other person - before diving into the work - definitely pays off; sessions are more productive (i.e. we cover more ground instead of rushing for a solution) and actually take less to do it. So far the most fun/rewarding pairing session I’ve had has been when my partner and I figured out a solution quickly and decided to try solving it a different way that defied the directions but would ultimately be more efficient. The reason I found it exhilarating is that I don’t think either of us would’ve taken this extra step on our own. We got demoralized at different points and relied on each other’s direction and encouragement.&lt;/p&gt;
+
+&lt;p&gt;I should say that pairing sessions are unlike any other group work I’ve done. First off, it’s a different, more dynamic kind of collaboration. Second, there’s the feedback component. I felt nervous reading my feedback. Even though the feedback is anonymous, it was tough to fight the impulse to do the detective work that would connect the criticism with a specific pairing sessions. Basically I learned that my impulse when receiving feedback is to explain it away. I think that if I can only pinpoint the exact moment that led someone else to criticize me, then I can absolve myself of that error. I think you’ll agree that’s not healthy or productive. Maybe it’s because I’m not used to such constant or structured feedback or maybe I’m like most people and don’t readily or easily confront criticism. But that’s precisely why the feedback has been helpful so far - not only receiving, but also providing it as well. It’s made me more focused during the sessions (though I’ll admit I sometimes struggle to remember the details of a 1+ hour long pairing session during which my brain was focused on solving the task at hand) and more conscious learner. By reading the feedback others wrote for me, I learned that I need to be more structured in my approach to solving the various problems that come up during a challenge. Tall order. But the continuous feedback will help me monitor my progress and also motivate me to stay vigilant in addressing these issues.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 04 Jan 2015 04:00:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2015/01/04/c5-feeback.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2015/01/04/c5-feeback.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>The Map Method</title>
+        <description>&lt;p&gt;Here’s a brief explainer for #map enumerable method.&lt;/p&gt;
+
+&lt;p&gt;Enumerable, for those of you who are like me - i.e. are new to the world of programming and find the word ‘Enumerable’ intimidating, simultaneously elusive and straightforward- just describes methods that go through items in a collection (like arrays and hashes) one at a time and passes those items through a block of code determined by whoever writes the code. (FYI: there is such thing as an Enumerable module, which to my knowledge is just a collection of methods that can be applied to an object. But a luxury of being a newb is the luxury of ignorance, so for now, let’s ignore the module part and refocus on #map).&lt;/p&gt;
+
+&lt;p&gt;#Map allows you to transform an array or hash without modifying it. It is an identical method to #collect, so you can think of #map as doing something to an array (or other collection) and then collecting those alterations in a separate, new array.
+Here’s the syntax: collection.map {|item_in_the_array| block}
+So if we had an array of strings, and wanted to take those strings, capitalize their first letters, and then store those items in a new array, #map is a great method. Check it out:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets//t4_example1.png&quot; alt=&quot;example1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If no code is placed between the brackets, then whatever is between the bracket is entered into the new array. For example:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/t4_example2.png&quot; alt=&quot;example2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More seasoned programmers, according to stack overflow and the rest of the interweb, frequently use #map to better utilize data within arrays. Using #map with a hash is apparently an inefficient way to glean or transform information from a hash.&lt;/p&gt;
+
+&lt;p&gt;To get a more seasoned programmer’s take a look at &lt;a href=&quot;http://ruby.bastardsbook.com/chapters/enumerables/&quot;&gt;ruby bastard book&lt;/a&gt; or &lt;a href=&quot;http://rubymonk.com/learning/books/4-ruby-primer-ascent/chapters/44-collections/lessons/96-enumerators-and-enumerables&quot;&gt;ruby monk&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Dec 2014 04:30:00 -0800</pubDate>
+        <link>http://yourdomain.com/blog//blog/2014/12/14/t4-enumerable-methods.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog//blog/2014/12/14/t4-enumerable-methods.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

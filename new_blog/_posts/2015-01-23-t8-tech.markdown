@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Explainer: Ruby on Rails"
+date:   2015-01-23 12:00:00
+categories: blog
+---
+Ruby on Rails is a “web application development framework written in the Ruby language.” It is a “software library that extends the Ruby programming language.” Technically, rails is a “package library” in the form of a RubyGem.
+
+Those are the broad definitions I found when I tried to learn more about Ruby on Rails. Here’s a more basic, novice-friendly version: Ruby on Rails (abbreviated as RoR or just called Rails) is a framework written in Ruby that combines Ruby, JavaScript, HTML, and CSS that enables programmers to build interactive websites.
+
+Rails was released by creator David Heinemeier Hansson 2004 as an open-source project. Its status as open source is one reason Rails is so popular and has been so widely adopted. Today massive websites like Hulu, Github, and Shopify run on Rails.
+
+Rails has gained popularity over the years because developers find it easier to collaborate and quickly build websites. The reason Rails development is so smooth compared to PHP and Java is that Rails is an “opinionated software,” meaning it adheres certain conventions that its creators believe are fundamental (and generally non-negotiable) parts of the development process. To be clear, these are decisions made by Hansson and the core team of RoR. The decisions generally reflect and bolster Rail’s commitment to a couple core philosophies: Don’t Repeat Yourself and Convention Over Configuration.
+
+Don’t Repeat Yourself is a tenet that advises against duplicate/repetitive code. Convention Over Configuration refers to the (opinionated) automation that’s part of Rails. Rails makes assumptions, so, for example, when you create a model object in Rails, that data will be saved in a table with the same name as the object without any configuration required.
+
+A good primer is incomplete without mentioning a few flaw/criticisms: First off, the “opinionated software” aspect of RoR cuts both ways: some see this as hugely helpful/benevolent whereas others see it as autocratic of Hansson to enshrine his preferences into the framework. Other complaints are more technical in nature. Rails has been criticized for its slow processing performance relative to Java or C++. It’s also more difficult to execute two tasks simultaneously using Rails, for reasons far beyond my current understanding.
+
+For a great article with much (much, much..) more details about Ruby on Rails, check out this [railsapp guide](http://railsapps.github.io/what-is-ruby-rails.html).
