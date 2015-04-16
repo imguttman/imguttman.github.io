@@ -4,15 +4,29 @@ body, html {
   min-height: 100%;
 }
 
-body{
-
-  background: url("http://wallpoper.com/images/00/21/55/83/cartoon-calvin-and-hobbes_00215583.jpg") no-repeat center center fixed;
-  background-size: 100% 100%;
-  background-color: white;
-  color: #253B40;
-  font-family: 'Muli', sans-serif;
-
+body {
+  background: url("http://wallpoper.com/images/00/21/55/83/cartoon-calvin-and-hobbes_00215583.jpg" ) no-repeat center center fixed;
+  background-size: cover;
+  padding-top: 70px;
 }
+.page-header {
+  background: white;
+}
+
+.bottom {
+  position:relative;
+  margin-top: 1000px;
+}
+
+  /*body{
+
+    background: url("http://wallpoper.com/images/00/21/55/83/cartoon-calvin-and-hobbes_00215583.jpg") no-repeat center center fixed;
+    background-size: 100% 100%;
+    background-color: white;
+    color: #253B40;
+    font-family: 'Muli', sans-serif;
+
+  }*/
 
 #title_header {
   position: relative;
